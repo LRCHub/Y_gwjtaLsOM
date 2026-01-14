@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Gimme Love",
+  "base_artist": "Joji",
+  "createdAt": "2026-01-14T08:14:15.590610Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Gimme Love",
+      "artist": "Opus",
+      "has_synced": false,
+      "path": "select/01_Gimme_Love_Opus.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Gimme Love",
+      "artist": "Alexia",
+      "has_synced": false,
+      "path": "select/02_Gimme_Love_Alexia.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Gimme Love to Give",
+      "artist": "The Ark",
+      "has_synced": false,
+      "path": "select/03_Gimme_Love_to_Give_The_Ark.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Gimme Love",
+      "artist": "Sleater-Kinney",
+      "has_synced": true,
+      "path": "select/04_Gimme_Love_Sleater-Kinney.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Gimme Love",
+      "artist": "Sleater‐Kinney",
+      "has_synced": true,
+      "path": "select/05_Gimme_Love_Sleater‐Kinney.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Gimme Love",
+      "artist": "Uriah Heep",
+      "has_synced": false,
+      "path": "select/06_Gimme_Love_Uriah_Heep.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Gimme Love",
+      "artist": "Joji",
+      "has_synced": true,
+      "path": "select/07_Gimme_Love_Joji.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Gimme Love",
+      "artist": "Joji",
+      "has_synced": true,
+      "path": "select/08_Gimme_Love_Joji.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Gimme Love - Channel Tres Remix",
+      "artist": "Joji feat. Channel Tres",
+      "has_synced": true,
+      "path": "select/09_Gimme_Love_-_Channel_Tres_Remix_Joji_feat._Channel_Tres.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Gimme Love (Channel Tres Remix)",
+      "artist": "Joji, Channel Tres",
+      "has_synced": true,
+      "path": "select/10_Gimme_Love_(Channel_Tres_Remix)_Joji,_Channel_Tres.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Gimme Love",
+      "artist": "Jon Anderson",
+      "has_synced": false,
+      "path": "select/11_Gimme_Love_Jon_Anderson.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Gimme Love",
+      "artist": "April Wine",
+      "has_synced": false,
+      "path": "select/12_Gimme_Love_April_Wine.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Gimme Love",
+      "artist": "Collie Buddz",
+      "has_synced": true,
+      "path": "select/13_Gimme_Love_Collie_Buddz.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Gimme Love",
+      "artist": "Joji",
+      "has_synced": false,
+      "path": "select/pl_01_Gimme_Love_Joji.txt"
+    }
+  ]
+}
